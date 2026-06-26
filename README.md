@@ -32,7 +32,7 @@
 ## About Me
 
 ```python
-harshit sharma = {
+  HARSHIT SHARMA = {
     "name"      : "Harshit Sharma",
     "location"  : "Panchkula, Haryana, India",
     "role"      : ["Data Analyst", "Generative AI Engineer", "Python Developer"],
@@ -45,7 +45,7 @@ harshit sharma = {
 
 ---
 
-## Featured Projects
+## MY PINED PROJECTS
 
 <table>
 <tr>
