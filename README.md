@@ -23,6 +23,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<br/><br/>
+<p>harshitsharma200377@gmail.com</p>
+
 </div>
 
 <br/>
@@ -32,12 +35,12 @@
 ## About Me
 
 ```python
-  HARSHIT SHARMA = {
+HARSHIT SHARMA = {
     "name"      : "Harshit Sharma",
     "location"  : "Panchkula, Haryana, India",
     "role"      : ["Data Analyst", "Generative AI Engineer", "Python Developer"],
     "education" : ["M.A. Economics (Pursuing) — IGNOU",
-                    "B.Com — Kurukshetra University (First Division)"],
+                   "B.Com — Kurukshetra University (First Division)"],
     "focus"     : ["LLM Applications", "RAG Systems", "AI Agents", "Data Analytics"],
     "motto"     : "Every project is an opportunity to learn and build something meaningful."
 }
@@ -45,7 +48,7 @@
 
 ---
 
-## MY PINED PROJECTS
+## MY PINNED PROJECTS
 
 <table>
 <tr>
@@ -96,27 +99,23 @@ Comprehensive retail analytics project: data cleaning, EDA, identified sales tre
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-</td>
-</tr>
 </table>
+
 <br clear="both"/>
 
-
 ---
+
 ## Certifications
 
 - **IBM Data Analysis with Python** — DA0101EN
 - **IBM Python 101 for Data Science** — PY0101EN
-
 
 ---
 
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 ---
