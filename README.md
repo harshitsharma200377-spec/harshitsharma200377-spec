@@ -1,233 +1,108 @@
-<!-- ===========================
-        HARSHIT SHARMA
-=========================== -->
+# Harshit Sharma | AI & Python Developer
 
-<h1 align="center">Hi 👋, I'm Harshit Sharma</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Generative+AI+Engineer;Python+Developer;Data+Analyst;Building+AI+Applications+with+LLMs;Passionate+About+Learning+and+Innovation" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/harshitsharma200377-spec">
-    <img src="https://img.shields.io/github/followers/harshitsharma200377-spec?label=Followers&style=for-the-badge">
-  </a>
-  <a href="https://github.com/harshitsharma200377-spec">
-    <img src="https://img.shields.io/github/stars/harshitsharma200377-spec?style=for-the-badge">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=harshitsharma200377-spec&style=for-the-badge&color=blue"/>
-</p>
+![Python](https://img.shields.io/badge/Python-Developer-blue)
+![AI](https://img.shields.io/badge/AI-Engineer-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Learning](https://img.shields.io/badge/Focus-LangChain%20%26%20RAG-orange)
 
 ---
 
-# 👨‍💻 About Me
+## 👋 Introduction
 
-I'm **Harshit Sharma**, a passionate **Generative AI Engineer**, **Python Developer**, and **Data Analyst** from India.
+Welcome to my development space.
 
-I enjoy building intelligent applications that solve real-world problems using **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **Machine Learning**, and **Data Analytics**.
+I am focused on building **AI-powered applications, automation tools, and intelligent systems** using modern Python frameworks and LLM technologies.
 
-I believe the best way to learn is by building practical projects, experimenting with new technologies, and continuously improving.
-
----
-
-## 🚀 Currently Working On
-
-- 🤖 AI Agents
-- 📚 LangGraph
-- 🧠 Large Language Models (LLMs)
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🌐 Streamlit AI Applications
-- ⚡ Python Automation
+I enjoy turning concepts into real working systems rather than just theory.
 
 ---
 
-## 🌱 Currently Learning
+## ⚙️ Tech Stack
 
-- Agentic AI
-- LangGraph
-- Multi-Agent Systems
-- Advanced Prompt Engineering
-- AI System Design
-- Production AI Applications
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
-
-### AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChromaDB-4B0082?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
-</p>
-
-### Data Analytics
-
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge"/>
-</p>
-
-### Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 📄 Multi-PDF RAG Chatbot
-
-- Semantic Search
+### 🧠 AI / Machine Learning
 - LangChain
+- LangGraph
+- OpenAI / Groq LLM APIs
+- Hugging Face Transformers
+- Embeddings & Vector Search
+
+### 🛠 Backend & Tools
+- Python (Core)
+- FastAPI (Learning & building APIs)
+- Streamlit (UI development for AI apps)
+
+### 🗄️ Databases & Vector Stores
 - ChromaDB
-- Streamlit
-- Groq API
+- FAISS
+
+### 🔧 Developer Tools
+- Git & GitHub
+- VS Code
+- Virtual Environments
+- Docker (Exploring)
 
 ---
 
-### 📈 India Economics Intelligence RAG
+## 🚀 Projects
 
-- Domain-Specific RAG
-- LLM Integration
-- Vector Database
-- Streamlit Interface
-
----
-
-### 🤖 AI Chat Assistant
-
-- Authentication
-- SQLite Database
-- Chat Memory
-- Python Coding Assistant
-- Question Generator
+### 📄 Smart PDF RAG Chatbot
+AI system that:
+- Reads PDF files
+- Converts them into embeddings
+- Stores them in vector database
+- Answers user queries using semantic search
 
 ---
 
-### 📊 Superstore Sales Analysis
-
-- Python
-- SQL
-- Power BI
-- Tableau
-- Data Visualization
+### 🔗 LangGraph Workflow Engine
+- Node-based AI workflow system
+- Structured reasoning pipelines
+- Multi-step LLM execution flow
 
 ---
 
-### 🧠 Machine Learning Projects
-
-- Sonar Rock vs Mine Detection
-- Diabetes Prediction
-- Data Preprocessing
-- Model Evaluation
+### 🤖 AI Tool Agents
+- LLM integrated with external tools
+- Automated task execution
+- Real-world problem-solving systems
 
 ---
 
-### 🏡 ANN Deep Learning
+## 🎯 Current Focus
 
-- Titanic Survival Prediction
-- House Price Prediction
-- TensorFlow
-- Keras
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshitsharma200377-spec&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsharma200377-spec&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+- Building production-ready AI applications
+- Mastering LangGraph & RAG systems
+- Improving system design skills
+- Creating scalable AI tools
+- Shipping consistent GitHub projects
 
 ---
 
-# 🔥 GitHub Streak
+## 📊 GitHub Stats
 
-<p align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitsharma200377&show_icons=true&theme=tokyonight)
 
-<img src="https://streak-stats.demolab.com?user=harshitsharma200377-spec&theme=tokyonight&hide_border=true"/>
-
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsharma200377&layout=compact&theme=tokyonight)
 
 ---
 
-# 🏆 GitHub Trophies
+## 🌐 Connect With Me
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harshitsharma200377-spec&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
+- LinkedIn: :contentReference[oaicite:0]{index=0}  
+- GitHub: https://github.com/harshitsharma200377  
 
 ---
 
-# 📊 Contribution Graph
+## ⚡ Philosophy
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitsharma200377-spec&theme=tokyo-night&hide_border=true"/>
-
-</p>
+> Build fast. Learn deeply. Improve continuously. Ship consistently.
 
 ---
 
-# 🐍 Contribution Snake
+## 📌 Notes
 
-<p align="center">
+This repository represents my learning + development journey in AI engineering and software systems.
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-> **Note:** The snake animation requires a GitHub Actions workflow to generate automatically.
+Expect continuous improvements through real projects.
 
 ---
-
-# 📫 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/harshit-sharma-8b2906386/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:harshitsharma200377@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-# 💡 Philosophy
-
-> **"Every project is an opportunity to learn, improve, and build something meaningful."**
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, consider ⭐ starring my repositories.
-
-</p>
