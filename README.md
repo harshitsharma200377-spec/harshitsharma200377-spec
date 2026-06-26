@@ -32,6 +32,7 @@
 ```python
 HARSHIT SHARMA = {
     "name"      : "Harshit Sharma",
+    "Gmail"     : "harshitsharma200377@gmail.com"
     "location"  : "Panchkula, Haryana, India",
     "role"      : ["Data Analyst", "Generative AI Engineer", "Python Developer"],
     "education" : ["M.A. Economics (Pursuing) — IGNOU",
