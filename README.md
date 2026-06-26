@@ -32,39 +32,16 @@
 ## About Me
 
 ```python
-harshit = {
+harshit sharma = {
     "name"      : "Harshit Sharma",
     "location"  : "Panchkula, Haryana, India",
     "role"      : ["Data Analyst", "Generative AI Engineer", "Python Developer"],
-    "education" : [
-                    "M.A. Economics (Pursuing) — IGNOU",
-                    "B.Com — Kurukshetra University (First Division)"
-                  ],
+    "education" : ["M.A. Economics (Pursuing) — IGNOU",
+                    "B.Com — Kurukshetra University (First Division)"],
     "focus"     : ["LLM Applications", "RAG Systems", "AI Agents", "Data Analytics"],
     "motto"     : "Every project is an opportunity to learn and build something meaningful."
 }
 ```
-
----
-
-## Currently Working On
-
-- **AI Agents** — Autonomous multi-step reasoning systems
-- **LangGraph** — Stateful, multi-actor LLM workflows
-- **RAG Pipelines** — Retrieval-Augmented Generation at scale
-- **Streamlit AI Apps** — Production-ready AI interfaces
-- **Python Automation** — End-to-end data and AI pipelines
-
----
-
-## Experience
-
-**Data Analyst / Data Science / Generative AI Intern** — *Techedo Technologies*
-
-- Analyzed real-world datasets using **Python, SQL, Power BI, and Tableau**
-- Performed **data cleaning, exploratory data analysis**, and interactive dashboard development
-- Built and tested **Machine Learning and Generative AI** solutions
-- Developed **AI-powered applications** using Streamlit and LLM APIs
 
 ---
 
@@ -122,64 +99,6 @@ Comprehensive retail analytics project: data cleaning, EDA, identified sales tre
 <tr>
 <td width="50%" valign="top">
 
-**Machine Learning Classification Projects**
-
-`Python` `Scikit-learn` `Pandas`
-
-ML classifiers for **Sonar Rock/Mine Detection** and **Diabetes Prediction** with full data preprocessing and model evaluation.
-
-[View Repository](https://github.com/harshitsharma200377-spec/ml-projects)
-
-</td>
-<td width="50%" valign="top">
-
-**ANN Deep Learning Projects**
-
-`TensorFlow` `Keras` `Scikit-learn`
-
-Two ANN models: **Titanic Survival** (~81% accuracy) and **House Price Regression** (MAE ~$22K) with feature engineering and published theory notebooks.
-
-[View Repository](https://github.com/harshitsharma200377-spec/ann-deep-learning-projects)
-
-</td>
-</tr>
-</table>
-
----
-
-## Tech Stack
-
-**AI / Generative AI**
-
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
-![Groq API](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-4B0082?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![RAG Systems](https://img.shields.io/badge/RAG_Systems-0077B6?style=for-the-badge)
-
-**Data & Machine Learning**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-**Data Visualization & BI**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-**Databases & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
