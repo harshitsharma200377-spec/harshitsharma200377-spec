@@ -1,233 +1,194 @@
-<!-- ===========================
-        HARSHIT SHARMA
-=========================== -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Harshit Sharma</h1>
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0077B6,100:00C2FF&height=200&section=header&text=Harshit%20Sharma&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Analyst%20%7C%20Generative%20AI%20Engineer%20%7C%20Python%20Developer&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Generative+AI+Engineer;Python+Developer;Data+Analyst;Building+AI+Applications+with+LLMs;Passionate+About+Learning+and+Innovation" />
-</p>
+<!-- Animated Typing Headline -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=false&width=900&lines=🤖+Building+AI+Applications+with+LLMs;📊+Turning+Data+into+Decisions;🔍+RAG+%7C+LangChain+%7C+Vector+Databases;⚡+Streamlit+%7C+Groq+API+%7C+Python+Automation;🧠+Machine+Learning+%7C+Deep+Learning+%7C+NLP" />
 
-<p align="center">
-  <a href="https://github.com/harshitsharma200377-spec">
-    <img src="https://img.shields.io/github/followers/harshitsharma200377-spec?label=Followers&style=for-the-badge">
-  </a>
-  <a href="https://github.com/harshitsharma200377-spec">
-    <img src="https://img.shields.io/github/stars/harshitsharma200377-spec?style=for-the-badge">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=harshitsharma200377-spec&style=for-the-badge&color=blue"/>
-</p>
+<br/>
 
----
+<!-- Social Badges -->
+<a href="https://www.linkedin.com/in/harshit-sharma-8b2906386/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:harshitsharma200377@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/harshitsharma200377-spec">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-# 👨‍💻 About Me
-
-I'm **Harshit Sharma**, a passionate **Generative AI Engineer**, **Python Developer**, and **Data Analyst** from India.
-
-I enjoy building intelligent applications that solve real-world problems using **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **Machine Learning**, and **Data Analytics**.
-
-I believe the best way to learn is by building practical projects, experimenting with new technologies, and continuously improving.
+</div>
 
 ---
 
-## 🚀 Currently Working On
+## 👨‍💻 About Me
 
-- 🤖 AI Agents
-- 📚 LangGraph
-- 🧠 Large Language Models (LLMs)
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🌐 Streamlit AI Applications
-- ⚡ Python Automation
-
----
-
-## 🌱 Currently Learning
-
-- Agentic AI
-- LangGraph
-- Multi-Agent Systems
-- Advanced Prompt Engineering
-- AI System Design
-- Production AI Applications
+```python
+harshit = {
+    "name"     : "Harshit Sharma",
+    "location" : "Panchkula, Haryana, India 🇮🇳",
+    "role"     : ["Data Analyst", "Generative AI Engineer", "Python Developer"],
+    "education": ["M.A. Economics (Pursuing) — IGNOU",
+                  "B.Com — Kurukshetra University (First Division)"],
+    "focus"    : ["LLM Applications", "RAG Systems", "AI Agents", "Data Analytics"],
+    "motto"    : "Every project is an opportunity to learn and build something meaningful 🚀"
+}
+```
 
 ---
 
-# 💻 Tech Stack
+## 🔭 Currently Working On
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
-
-### AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChromaDB-4B0082?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
-</p>
-
-### Data Analytics
-
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge"/>
-</p>
-
-### Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
-</p>
+- 🤖 **AI Agents** — Autonomous multi-step reasoning systems
+- 📚 **LangGraph** — Stateful, multi-actor LLM workflows
+- 🔍 **RAG Pipelines** — Retrieval-Augmented Generation at scale
+- 🌐 **Streamlit AI Apps** — Production-ready AI interfaces
+- ⚡ **Python Automation** — End-to-end data and AI pipelines
 
 ---
 
-# 🚀 Featured Projects
+## 🏢 Experience
+
+**Data Analyst / Data Science / Generative AI Intern** — *Techedo Technologies*
+
+- Analyzed real-world datasets using **Python, SQL, Power BI, and Tableau**
+- Performed **data cleaning, EDA**, and interactive dashboard development
+- Built and tested **Machine Learning and Generative AI** solutions
+- Developed **AI-powered applications** using Streamlit and LLM APIs
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 📄 Multi-PDF RAG Chatbot
+`Python` `LangChain` `ChromaDB` `Streamlit` `Groq API`
 
-- Semantic Search
-- LangChain
-- ChromaDB
-- Streamlit
-- Groq API
+Built a RAG chatbot for querying multiple PDFs using semantic search, document chunking, embeddings, and Groq LLM integration.
 
----
+🔗 [GitHub Repository](https://github.com/harshitsharma200377-spec/Multi-PDF_RAG_Chatbot)
+
+</td>
+<td width="50%" valign="top">
 
 ### 📈 India Economics Intelligence RAG
+`Python` `LangChain` `ChromaDB` `Streamlit` `Groq API`
 
-- Domain-Specific RAG
-- LLM Integration
-- Vector Database
-- Streamlit Interface
+Domain-specific RAG system for Indian economic knowledge retrieval with semantic search and LLM-powered Q&A.
 
----
+🔗 [GitHub Repository](https://github.com/harshitsharma200377-spec/rag-india-economics-intelligence)
 
-### 🤖 AI Chat Assistant
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- Authentication
-- SQLite Database
-- Chat Memory
-- Python Coding Assistant
-- Question Generator
+### 🤖 Harshit Chat Bot — Generative AI App
+`Python` `Streamlit` `Groq API` `SQLite`
 
----
+AI chatbot with chat memory, authentication, SQLite DB, AI Chat Assistant, Question Generator, and Python Coding modules — deployed on Streamlit Cloud.
+
+🔗 [GitHub Repository](https://github.com/harshitsharma200377-spec/My-chat-Bot-generative-Ai-project-)
+
+</td>
+<td width="50%" valign="top">
 
 ### 📊 Superstore Sales Analysis
+`Python` `SQL` `Power BI` `Tableau`
 
-- Python
-- SQL
-- Power BI
-- Tableau
-- Data Visualization
+Comprehensive retail analytics: data cleaning, EDA, identified sales trends and customer insights across multiple BI tools.
 
----
+🔗 [GitHub Repository](https://github.com/harshitsharma200377-spec/sales-analysis-project)
 
-### 🧠 Machine Learning Projects
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- Sonar Rock vs Mine Detection
-- Diabetes Prediction
-- Data Preprocessing
-- Model Evaluation
+### 🧠 Machine Learning Classification Projects
+`Python` `Scikit-learn` `Pandas`
 
----
+ML classifiers for **Sonar Rock/Mine Detection** and **Diabetes Prediction** with full data preprocessing and model evaluation.
 
-### 🏡 ANN Deep Learning
+🔗 [GitHub Repository](https://github.com/harshitsharma200377-spec/ml-projects)
 
-- Titanic Survival Prediction
-- House Price Prediction
-- TensorFlow
-- Keras
+</td>
+<td width="50%" valign="top">
 
----
+### 🏡 ANN Deep Learning Projects
+`TensorFlow` `Keras` `Scikit-learn`
 
-# 📈 GitHub Analytics
+Two ANN models: **Titanic Survival** (~81% accuracy) and **House Price Regression** (MAE ~$22K) with feature engineering and theory notebooks.
 
-<p align="center">
+🔗 [GitHub Repository](https://github.com/harshitsharma200377-spec/ann-deep-learning-projects)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshitsharma200377-spec&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsharma200377-spec&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-# 🔥 GitHub Streak
+## 💻 Tech Stack
 
-<p align="center">
+### 🧠 AI / Generative AI
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![Groq API](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-4B0082?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Systems-0077B6?style=for-the-badge)
 
-<img src="https://streak-stats.demolab.com?user=harshitsharma200377-spec&theme=tokyonight&hide_border=true"/>
+### 📊 Data & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-</p>
+### 📈 Data Visualization & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harshitsharma200377-spec&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitsharma200377-spec&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-> **Note:** The snake animation requires a GitHub Actions workflow to generate automatically.
+### 🗄️ Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-# 📫 Connect With Me
+## 📜 Certifications
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/harshit-sharma-8b2906386/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:harshitsharma200377@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+- 🏅 **IBM Data Analysis with Python** — DA0101EN
+- 🏅 **IBM Python 101 for Data Science** — PY0101EN
 
 ---
 
-# 💡 Philosophy
+## 🔥 GitHub Streak
 
-> **"Every project is an opportunity to learn, improve, and build something meaningful."**
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=harshitsharma200377-spec&theme=tokyonight&hide_border=true&border_radius=10"/>
+</div>
 
 ---
 
-<p align="center">
+## 🐍 Contribution Snake
 
-### ⭐ Thanks for visiting my profile!
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</div>
 
-If you like my work, consider ⭐ starring my repositories.
+---
 
-</p>
+<!-- Bottom Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:0077B6,100:0D1117&height=120&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=FFFFFF&fontAlignY=65&animation=twinkling" width="100%"/>
+</div>
