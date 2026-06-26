@@ -16,7 +16,7 @@
 </a>
 &nbsp;
 <a href="mailto:harshitsharma200377@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=EA4335&height=28&text=✉%20Gmail&fontSize=14&fontColor=FFFFFF&animation=twinkling&width=120"/>
 </a>
 &nbsp;
 <a href="https://github.com/harshitsharma200377-spec">
@@ -24,7 +24,6 @@
 </a>
 
 <br/><br/>
-<p>harshitsharma200377@gmail.com</p>
 
 </div>
 
