@@ -99,7 +99,7 @@ Comprehensive retail analytics project: data cleaning, EDA, identified sales tre
 <tr>
 <td width="50%" valign="top">
 
-
+<table>
 ---
 ## Certifications
 
