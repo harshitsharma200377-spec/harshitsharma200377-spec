@@ -15,10 +15,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:harshitsharma200377@gmail.com">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=EA4335&height=28&text=✉%20Gmail&fontSize=14&fontColor=FFFFFF&animation=twinkling&width=120"/>
-</a>
-&nbsp;
 <a href="https://github.com/harshitsharma200377-spec">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
