@@ -107,13 +107,6 @@ Comprehensive retail analytics project: data cleaning, EDA, identified sales tre
 - **IBM Data Analysis with Python** — DA0101EN
 - **IBM Python 101 for Data Science** — PY0101EN
 
----
-
-## GitHub Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=harshitsharma200377-spec&theme=tokyonight&hide_border=true&border_radius=10"/>
-</div>
 
 ---
 
