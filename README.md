@@ -101,7 +101,6 @@ Comprehensive retail analytics project: data cleaning, EDA, identified sales tre
 
 
 ---
----
 ## Certifications
 
 - **IBM Data Analysis with Python** — DA0101EN
